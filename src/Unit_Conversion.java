@@ -3,13 +3,7 @@ import java.util.Scanner;
 
 public class Unit_Conversion {
 	public static void main(String args[]){
-		/*
-		Do 5 different scientific to English.
-		Length, mass, temperature, time and pressure
-		Try to create if-else statement.
-			Ask the user, what they want to do
-			Formula for the conversion (dont think, I need function)
-		 */
+		
 		String unitConversion[] = {"Length", "Mass", "Temperature", "Time", "Pressure"};
 		//Intro of this program
 		System.out.println("Welcome! This is a Unit Conversion program.");
